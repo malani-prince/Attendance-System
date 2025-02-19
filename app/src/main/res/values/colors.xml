@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="darker_gray">#616161</color>
+    <color name="light_gray">#F8F8F8</color>
+    <color name="light_green">#C8E6C9</color> <!-- Soft Green -->
+    <color name="light_pink">#FFCDD2</color> <!-- Soft Pink -->
+    <color name="card_bg_color">#EDEAEA</color> <!-- Soft Pink -->
+    <color name="silk">#BDBDE1</color>
+    <color name="blueMediumLight">#DCE8FB</color>
+    <color name="greyDark">#616170</color>
+    <color name="greyDarker">#4B5768</color>
+    <color name="grey">#CBD5E5</color>
+    <color name="oxfordBlue">#263238</color>
+    <color name="blue">#0305C1</color>
+    <color name="present_color">#29DE2B</color> <!-- Soft Green -->
+    <color name="absent_color">#CE4242</color> <!-- Soft Green -->
+    <color name="view_color">#A5C8C3C3</color>
+    <color name="vintageViolet">#604D5E</color>
+
+</resources>

@@ -1,0 +1,36 @@
+# Android Studio specific files
+*.iml
+.gradle
+/local.properties
+/.idea/
+/.idea/caches/
+/.idea/libraries/
+/idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+
+# macOS specific files
+.DS_Store
+
+# Build and output folders
+/build/
+app/build/
+
+# Native build caches
+.externalNativeBuild/
+.cxx/
+
+# Compiled application files
+*.apk
+*.ap_
+*.aab
+
+# Dalvik Executable files
+*.dex
+
+# Java class files
+*.class
+
+# Windows thumbnail database
+Thumbs.db

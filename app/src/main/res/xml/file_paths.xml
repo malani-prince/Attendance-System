@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+
+    <external-files-path
+        name="docs"
+        path="/" />
+
+    <root-path
+        name="root"
+        path="/" />
+
+    <files-path
+        name="docs"
+        path="/" />
+
+    <external-media-path
+        name="files"
+        path="/data/data/com.mariostowing.customer/files" />
+
+</paths>
